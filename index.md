@@ -51,10 +51,10 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2020/06/11/1_4czkprforkgbtth1ghjpcw.png"
   headline: Przywileje
-  content: 'Mówiąc o różnorodności i sprawiedliwości społecznej musimy też powiedzieć
+  content: '<section id="przywileje">Mówiąc o różnorodności i sprawiedliwości społecznej musimy też powiedzieć
     o przywilejach. Moja lista 60 przywilejów przystosowana do warunków polskich.<br>Przeczytaj
     i sprawdz jak wiele przywilejów masz, mimo że ich nie zauważasz.<a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-przywileje.html"
-    title=""><br>Sojusznicy i IT: Przywileje</a>'
+    title=""><br>Sojusznicy i IT: Przywileje</a></section>'
   image:
     image: ''
     alt_text: ''
@@ -88,8 +88,8 @@ page_sections:
     alt_text: ''
 - template: signup-bar
   block: cta-bar
-  content: Chcesz wiedzieć więcej? Zostaw nam swojego maila, a wrócimy z większą dawną
-    informacji
+  content: '<section id="subscribe">Chcesz wiedzieć więcej? Zostaw nam swojego maila, a wrócimy z większą dawną
+    informacji</section>'
   email_recipient: programistkaikot@gmail.com
 - template: 4-column-footer
   block: footer-2
