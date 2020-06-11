@@ -5,11 +5,10 @@ content: ''
 published: false
 
 ---
-
 **Urodzenie i wychowanie**
 
 * jesteś mężczyzną
-* jesteś Katolikiem
+* jesteś katolikiem
 * jesteś biały
 * jesteś Polakiem
 * masz Słowiańską urodę
@@ -23,9 +22,9 @@ published: false
 * nie jesteś dużo młodszy lub starszy od współpracowników
 * masz partnera i rodzinę, bądź ją planujesz
 * nie obawiasz się mówić o swoim partnerze
-* wpisujesz się w swoją rolę społeczną przyjętą w danym społeczeństwie *np. nie jesteś kobietą robiącą karierę i nie stawiasz jako kobieta kariery na pierwszym miejscu   
-     
-   **Przywileje nabyte**
+* wpisujesz się w swoją rolę społeczną przyjętą w danym społeczeństwie *np. nie jesteś kobietą robiącą karierę i nie stawiasz jako kobieta kariery na pierwszym miejscu
+
+  **Przywileje nabyte**
 * ukończyłeś studia
 * ukończyłeś polibudę
 * ukończyłeś studia w swoim zawodzie
@@ -41,23 +40,23 @@ published: false
 * możesz sobie pozwolić finansowo na lunch na mieście lub wyjście po pracy
 * masz czas wolny, który możesz poświęcić na projekt albo naukę
 * masz kogoś kto pomaga Ci w obowiązkach domowych
-* dostałeś pracę "po znajomości" od rodziny, od znajomych  
-     
-   **Zdarzenia losowe**
+* dostałeś pracę "po znajomości" od rodziny, od znajomych
+
+  **Zdarzenia losowe**
 * jesteś w stanie spłacać swoje kredyty
 * nie musisz utrzymywać kogoś finansowo *np. rodziców
 * nie spóźniasz się do pracy lub nie musisz notorycznie wychodzić wcześniej, ponieważ opiekujesz się nam dzieckiem czy też inną wymagającą opieki lub niesamodzielną osobą
 * nie masz dużej przerwy w pracy
-* nie masz żadnych ograniczeń, chorób, inwalidztwa (widocznych lub nie), ani chorób psychicznych  
-     
-   **Zachowania plemienne**
+* nie masz żadnych ograniczeń, chorób, inwalidztwa (widocznych lub nie), ani chorób psychicznych
+
+  **Zachowania plemienne**
 * lubisz gwiezdne wojny *podstaw to co akurat jest aktualne
 * lubisz planszówki
 * lubisz i uprawiasz sport, o którym jest głośno (bieganie, cross-fit)
 * jesteś lojalny terytorialnie "ci z drugiego miasta są źli i głupi"
-* jesteś lojalny plemiennie, czyli piszesz "we właściwym języku" lub jesteś devem, QA, adminem, devopsem *nie jesteś interdyscyplinarny *nie należysz do przeciwnego plemienia (Java, C#)  
-     
-   **Przypadki dyskryminacji**
+* jesteś lojalny plemiennie, czyli piszesz "we właściwym języku" lub jesteś devem, QA, adminem, devopsem *nie jesteś interdyscyplinarny *nie należysz do przeciwnego plemienia (Java, C#)
+
+  **Przypadki dyskryminacji**
 * nie jesteś społecznie wartościowany na podstawie swoich osiągów w pracy
 * zarabiasz znacznie mniej niż Twoi rówieśnicy/odpowiednik *czyli ludzie z podobnym wykształceniem, doświadczeniem i stanowiskiem
 * nie jesteś przedmiotem generalizowania i stereotypów bez znajomości osoby
