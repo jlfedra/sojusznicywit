@@ -10,11 +10,6 @@ fields:
 - type: file
   name: logo
   label: Logo
-- name: page_name
-  type: text
-  config:
-    required: false
-  label: page name
 - type: field_group_list
   name: navigation
   label: Navigation
