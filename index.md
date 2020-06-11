@@ -84,7 +84,7 @@ page_sections:
     alt_text: ''
   content: ''
   cta:
-    enabled: false
+    enabled: true
     url: ''
     button_text: ''
 - template: hero-banner-w-image
