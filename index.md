@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "#przywileje"
+    link_text: Przywileje
   - link: "/"
     link_text: Sojusznicy w IT
   - link: "/przywileje.html"
