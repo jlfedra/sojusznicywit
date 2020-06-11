@@ -29,6 +29,12 @@ page_sections:
   content: Chcesz wiedzieć więcej? Zostaw nam swojego maila, a wrócimy z większą dawną
     informacji
   email_recipient: programistkaikot@gmail.com
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2020/06/11/imgbin_holding-hands-stock-photography-png_de7vvb5s1.png"
+  col_4: Joanna Lamch
+  col_2: ''
+  col_3: ''
 
 ---
 foo bar
