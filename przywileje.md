@@ -2,6 +2,10 @@
 block: text-1
 headline: Przywileje
 content: ''
+menu:
+  main:
+    weight: 2
+    title: Przywileje
 published: false
 
 ---
