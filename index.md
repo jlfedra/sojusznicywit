@@ -15,6 +15,7 @@ page_sections:
   - link: "#subscribe"
     link_text: Subskrybuj
   logo: "/uploads/2020/06/11/imgbin_holding-hands-stock-photography-png_de7vvb5s1.png"
+  page_name: Sojusznicy w IT
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2020/06/11/nathan-dumlao-pmw4jzelqcw-unsplash2.jpg"
