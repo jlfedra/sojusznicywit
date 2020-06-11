@@ -6,10 +6,10 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "#przywileje"
-    link_text: Przywileje
   - link: "/"
     link_text: Sojusznicy w IT
+  - link: "#przywileje"
+    link_text: Przywileje
   - link: "/przywileje.html"
     link_text: 'Lista przywilejów '
   - link: "#subscribe"
