@@ -28,10 +28,10 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: "/uploads/2020/06/11/2.png"
+    image: "/uploads/2020/06/11/untitled.png"
     alt_text: Diversity puzzle image
   headline: Rozmawiamy o różnorodności
-  content: ''
+  content: Różnorodność to nie tylko poprawianie statystyk
 - template: signup-bar
   block: cta-bar
   content: Chcesz wiedzieć więcej? Zostaw nam swojego maila, a wrócimy z większą dawną
