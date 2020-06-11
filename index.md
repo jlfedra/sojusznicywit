@@ -27,7 +27,7 @@ page_sections:
     Cię nie tylko własny ogródek, podejmuj małe działania dla systemowych zmian. Zostań
     sojusznikiem.
   cta:
-    enabled: true
+    enabled: false
     url: ''
     button_text: ''
 - template: content-feature
@@ -57,11 +57,11 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2020/06/11/1_4czkprforkgbtth1ghjpcw.png"
   headline: Przywileje
-  content: '<section id="przywileje">Mówiąc o różnorodności i sprawiedliwości społecznej
-    musimy też powiedzieć o przywilejach. Moja lista 60 przywilejów przystosowana
-    do warunków polskich.<br>Przeczytaj i sprawdz jak wiele przywilejów masz, mimo
-    że ich nie zauważasz.<a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-przywileje.html"
-    title=""><br>Sojusznicy i IT: Przywileje</a></section>'
+  content: 'Mówiąc o różnorodności i sprawiedliwości społecznej musimy też powiedzieć
+    o przywilejach. <a href="/przywileje.html" title="">Moja lista 60 przywilejów</a>
+    przystosowana do warunków polskich.<br>Przeczytaj i sprawdz jak wiele przywilejów
+    masz, mimo że ich nie zauważasz.<a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-przywileje.html"
+    title=""><br>Sojusznicy i IT: Przywileje</a>'
   image:
     image: ''
     alt_text: ''
@@ -71,11 +71,13 @@ page_sections:
     button_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: ''
-  content: ''
+  media_alignment: Left
+  headline: Sojusznicy
+  content: Możesz robić małe rzeczy, które polepszą nasz światek IT.<br>O typach zachowań
+    i historiach z nimi powiązanymi możesz poczytać w <a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-sojusznicy.html"
+    title="">artykule o sojusznikach</a>. Wykorzystaj swoje przywileje i zostań sojusznikiem.
   media:
-    image: ''
+    image: "/uploads/2020/06/11/sojusz.jpg"
     alt_text: ''
 - template: content-feature
   block: feature-1
