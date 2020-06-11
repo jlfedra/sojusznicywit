@@ -24,6 +24,14 @@ page_sections:
     enabled: true
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/2020/06/11/2.png"
+    alt_text: Diversity puzzle image
+  headline: ''
+  content: ''
 - template: signup-bar
   block: cta-bar
   content: Chcesz wiedzieć więcej? Zostaw nam swojego maila, a wrócimy z większą dawną
