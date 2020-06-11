@@ -30,7 +30,7 @@ page_sections:
   media:
     image: "/uploads/2020/06/11/2.png"
     alt_text: Diversity puzzle image
-  headline: ''
+  headline: Rozmawiamy o różnorodności
   content: ''
 - template: signup-bar
   block: cta-bar
