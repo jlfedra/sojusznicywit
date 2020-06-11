@@ -47,6 +47,21 @@ page_sections:
     To także wspieranie ich w pracy i dbanie o sprawiedliwość.<br>Przeczytaj więcej
     w poście <a href="Programistkaikot.pl" title=""><em>Sojusznicy w IT: Diversity,
     Inclusion, Equity</em></a>'
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2020/06/11/1_4czkprforkgbtth1ghjpcw.png"
+  headline: Przywileje
+  content: 'Mówiąc o różnorodności i sprawiedliwości społecznej musimy też powiedzieć
+    o przywilejach. Moja lista 60 przywilejów przystosowana do warunków polskich.<br>Przeczytaj
+    i sprawdz jak wiele przywilejów masz, mimo że ich nie zauważasz.<a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-przywileje.html"
+    title=""><br>Sojusznicy i IT: Przywileje</a>'
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
