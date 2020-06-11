@@ -28,6 +28,16 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
+    image: "/uploads/2020/06/11/sharon-mccutcheon-tzzwc_xscly-unsplash.jpg"
+    alt_text: ''
+  headline: Diversity, czy dyskusja jest tutaj potrzebna?
+  content: Co roku powracam do tematu i co roku jest on aktualny. Tym razem większy
+    zbiór przemyśleń a także rad co zrobić aby IT nie było tak zamkniętym środowiskiem
+    jak bywa teraz.
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
     image: "/uploads/2020/06/11/untitled.png"
     alt_text: Diversity puzzle image
   headline: Diversity, Inclusion, Equity
@@ -35,16 +45,6 @@ page_sections:
     To także wspieranie ich w pracy i dbanie o sprawiedliwość.<br>Przeczytaj więcej
     w poście <a href="Programistkaikot.pl" title=""><em>Sojusznicy w IT: Diversity,
     Inclusion, Equity</em></a>'
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  media:
-    image: "/uploads/2020/06/11/sharon-mccutcheon-tzzwc_xscly-unsplash.jpg"
-    alt_text: ''
-  headline: Diversity, czy dyskusja jest tutaj potrzebna?
-  content: Co roku powracam do tematu i co roku jest on aktualny. Tym razem większy
-    zbiór przemyśleń a także rad co zrobić aby IT nie było tak zamkniętym środowiskiem
-    jak bywa teraz.
 - template: content-feature
   block: feature-1
   media_alignment: Right
