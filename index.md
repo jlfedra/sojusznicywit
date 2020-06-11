@@ -19,7 +19,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2020/06/11/nathan-dumlao-pmw4jzelqcw-unsplash2.jpg"
-  headline: "<strong>Sojusznicy w IT<br></strong><br>Chcesz pomagać innym w świecie
+  headline: "<strong>Sojusznicy w IT <br></strong><br>Chcesz pomagać innym w świecie
     IT?<br>Super, zostałeś właśnie sojusznikiem"
   image:
     image: ''
