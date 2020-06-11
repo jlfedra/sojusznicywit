@@ -11,9 +11,14 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Sojusznicy w IT
-- template: simple-header
-  block: header-3
-  logo: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Lista przywilejów dostosowana do polskich realiów świata IT
+  media:
+    image: "/uploads/2020/06/11/dimensions-of-diversity.png"
+    alt_text: ''
+  content: ''
 - template: detail-content
   block: text-1
   content: <p></p><p></p><p><strong>Urodzenie i wychowanie</strong></p><ul><li><p>jesteś
