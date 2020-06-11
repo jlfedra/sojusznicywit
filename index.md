@@ -82,7 +82,10 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  content: ''
+  content: Jest wiele uprzedzeń, przywilejów, zamkniętych drzwi w IT.<br>Często nie
+    da się ich otworzyć bez pomocy z wewnątrz.<br>Jeśli chcesz pomóc, jeśli interesuje
+    Cię nie tylko własny ogródek, podejmuj małe działania dla systemowych zmian. Zostań
+    sojusznikiem.
   cta:
     enabled: true
     url: ''
@@ -99,7 +102,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-published: false
 
 ---
 foo bar
