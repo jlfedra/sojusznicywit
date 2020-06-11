@@ -30,8 +30,11 @@ page_sections:
   media:
     image: "/uploads/2020/06/11/untitled.png"
     alt_text: Diversity puzzle image
-  headline: Rozmawiamy o różnorodności
-  content: Różnorodność to nie tylko poprawianie statystyk
+  headline: Diversity, Inclusion, Equity
+  content: 'Różnorodność to nie tylko poprawianie statystyk zatrudnionych pracowników.
+    To także wspieranie ich w pracy i dbanie o sprawiedliwość.<br>Przeczytaj więcej
+    w poście <a href="Programistkaikot.pl" title=""><em>Sojusznicy w IT: Diversity,
+    Inclusion, Equity</em></a>'
 - template: signup-bar
   block: cta-bar
   content: Chcesz wiedzieć więcej? Zostaw nam swojego maila, a wrócimy z większą dawną
