@@ -24,6 +24,11 @@ page_sections:
     enabled: true
     url: ''
     button_text: ''
+- template: signup-bar
+  block: cta-bar
+  content: Chcesz wiedzieć więcej? Zostaw nam swojego maila, a wrócimy z większą dawną
+    informacji
+  email_recipient: programistkaikot@gmail.com
 
 ---
 foo bar
