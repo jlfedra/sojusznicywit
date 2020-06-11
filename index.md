@@ -33,7 +33,9 @@ page_sections:
   headline: Diversity, czy dyskusja jest tutaj potrzebna?
   content: Co roku powracam do tematu i co roku jest on aktualny. Tym razem większy
     zbiór przemyśleń a także rad co zrobić aby IT nie było tak zamkniętym środowiskiem
-    jak bywa teraz.
+    jak bywa teraz.<br>Przeczytaj <a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-wstep.html"
+    title="">wstęp</a> i <a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-czy-naprawde.html"
+    title="">trochę o tym jak temat wygląda w Polsce</a>
 - template: content-feature
   block: feature-1
   media_alignment: Right
