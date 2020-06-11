@@ -33,7 +33,7 @@ page_sections:
   block: footer-2
   image: "/uploads/2020/06/11/imgbin_holding-hands-stock-photography-png_de7vvb5s1.png"
   col_4: Joanna Lamch
-  col_2: 'Sojusznicy w IT '
+  col_2: "<strong>Sojusznicy w IT </strong>"
   col_3: ''
 
 ---
