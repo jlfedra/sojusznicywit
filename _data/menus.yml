@@ -1,5 +1,8 @@
 ---
 main:
+- url: https://jlfedra.github.io/sojusznicywit/#subscribe
+  weight: 3
+  title: Subskrybuj
 - identifier: home
   url: "/"
   weight: 1
