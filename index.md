@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+title: Sojusznicy w IT
+date: 
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -75,6 +75,31 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2020/06/11/nathan-dumlao-pmw4jzelqcw-unsplash2.jpg"
+  headline: Chcesz pomagać innym w świecie IT?<br>Super, zostałeś właśnie sojusznikiem
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+published: false
 
 ---
 foo bar
