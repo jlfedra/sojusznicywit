@@ -6,12 +6,12 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "#subscribe"
-    link_text: Subskrybuj
   - link: "/"
     link_text: Sojusznicy w IT
   - link: "/przywileje.html"
-    link_text: Przywileje
+    link_text: 'Lista przywilejów '
+  - link: "#subscribe"
+    link_text: Subskrybuj
   logo: "/uploads/2020/06/11/imgbin_holding-hands-stock-photography-png_de7vvb5s1.png"
 - template: hero-banner-w-image
   block: hero-2
