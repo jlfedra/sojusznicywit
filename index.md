@@ -3,6 +3,9 @@ layout: blocks
 title: Sojusznicy w IT
 date: 
 page_sections:
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/06/11/imgbin_holding-hands-stock-photography-png_de7vvb5s1.png"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2020/06/11/nathan-dumlao-pmw4jzelqcw-unsplash2.jpg"
