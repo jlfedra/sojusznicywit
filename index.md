@@ -79,22 +79,6 @@ page_sections:
   media:
     image: "/uploads/2020/06/11/sojusz.jpg"
     alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: signup-bar
   block: cta-bar
   content: <section id="subscribe">Chcesz wiedzieć więcej? Zostaw nam swojego maila,
