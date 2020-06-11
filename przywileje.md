@@ -5,15 +5,12 @@ content: ''
 layout: blocks
 title: Przywileje
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   logo: "/uploads/2020/06/11/imgbin_holding-hands-stock-photography-png_de7vvb5s1.png"
   navigation:
-  - link_text: Sojusznicy w IT
-    link: "/"
-  cta:
-    url: ''
-    button_text: ''
+  - link: "/"
+    link_text: Sojusznicy w IT
 - template: simple-header
   block: header-3
   logo: ''
