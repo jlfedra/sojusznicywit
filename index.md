@@ -79,7 +79,7 @@ page_sections:
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2020/06/12/retrosupply-jlwvautloaq-unsplash.jpg"
+  background_image: "/uploads/2020/06/12/aga-putra-p_p4ngz5cb4-unsplash.jpg"
   headline: "<strong>Sojusznicy w IT </strong>"
   content: Sojusznicy to bardzo szeroki temat. Pisanie o tym temacie zabiera sporo
     czasu. Jeśli chcesz czytać więcej zostaw maila aby dać motywację autorowi. Może
