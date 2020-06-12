@@ -93,7 +93,7 @@ page_sections:
     button_text: ''
 - template: signup-bar
   block: cta-bar
-  content: 'Chcesz wiedzieć więcej? Zapisz się:'
+  content: '<section id="subscribe">Chcesz wiedzieć więcej? Zapisz się:</section>'
   email_recipient: programistkaikot@gmail.com
 - template: 4-column-footer
   block: footer-2
