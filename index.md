@@ -8,10 +8,10 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Sojusznicy w IT
-  - link: "#przywileje"
-    link_text: Przywileje
   - link: "/przywileje.html"
     link_text: 'Lista przywilejów '
+  - link: https://www.programistkaikot.pl/search/label/sojusznicy
+    link_text: Wszystkie wpisy na blogu
   - link: "#subscribe"
     link_text: Subskrybuj
   logo: "/uploads/2020/06/12/imgbin_holding-hands-stock-photography-png_de7vvb5s12.png"
