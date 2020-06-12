@@ -21,7 +21,7 @@ page_sections:
   content: ''
 - template: detail-content
   block: text-1
-  content: <p></p><p></p><p><strong>Urodzenie i wychowanie</strong></p><ul><li><p>jesteś
+  content: <p></p><p></p><p><strong>Urodzenie i wychowanie</strong></p><ol><li><p>jesteś
     mężczyzną</p></li><li><p>jesteś Katolikiem</p></li><li><p>jesteś biały</p></li><li><p>jesteś
     Polakiem</p></li><li><p>masz Słowiańską urodę</p></li><li><p>nie masz nadwagi
     (znacznej)</p></li><li><p>pochodzisz z rodziny, którą można się pochwalić. Np.
@@ -80,7 +80,7 @@ page_sections:
     ponieważ wpisywałeś się w "politykę różnorodności"</p></li><li><p>gdy uczestniczysz
     w spotkaniu, konferencji ludzie nie zakładają, że jesteś partnerem uczestnika
     lub obsługą tylko uczestnikiem</p></li><li><p>nie doświadczasz w pracy molestowania
-    lub niechcianych propozycji seksualnych</p></li></ul><p></p>
+    lub niechcianych propozycji seksualnych</p></li></ol><p></p>
   headline: ''
 date: 
 menu:
