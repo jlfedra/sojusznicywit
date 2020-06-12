@@ -55,25 +55,21 @@ page_sections:
     To także wspieranie ich w pracy i dbanie o sprawiedliwość.<br>Przeczytaj więcej
     w poście <a href="Programistkaikot.pl" title=""><em>Sojusznicy w IT: Diversity,
     Inclusion, Equity</em></a>'
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2020/06/11/1_4czkprforkgbtth1ghjpcw.png"
-  headline: Przywileje
-  content: 'Mówiąc o różnorodności i sprawiedliwości społecznej musimy też powiedzieć
-    o przywilejach. <a href="/przywileje.html" title="">Moja lista 60 przywilejów</a>
-    przystosowana do warunków polskich.<br>Przeczytaj i sprawdz jak wiele przywilejów
-    masz, mimo że ich nie zauważasz.<a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-przywileje.html"
-    title=""><br>Sojusznicy i IT: Przywileje</a>'
-  image:
-    image: ''
-    alt_text: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
+  media:
+    image: "/uploads/2020/06/11/1_4czkprforkgbtth1ghjpcw.png"
+    alt_text: ''
+  headline: <strong><span class="light">Przywileje</span></strong>
+  content: 'Mówiąc o różnorodności i sprawiedliwości społecznej musimy też powiedzieć
+    o przywilejach. <a href="http://sojusznicywit.pl/przywileje.html" title="">Moja
+    lista 60 przywilejów</a> przystosowana do warunków polskich.<br>Przeczytaj i sprawdz
+    jak wiele przywilejów masz, mimo że ich nie zauważasz.<a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-przywileje.html"
+    title=""><br>Sojusznicy i IT: Przywileje</a>'
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   headline: Sojusznicy
   content: Możesz robić małe rzeczy, które polepszą nasz światek IT.<br>O typach zachowań
     i historiach z nimi powiązanymi możesz poczytać w <a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-sojusznicy.html"
@@ -81,6 +77,20 @@ page_sections:
   media:
     image: "/uploads/2020/06/11/sojusz.jpg"
     alt_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2020/06/12/retrosupply-jlwvautloaq-unsplash.jpg"
+  headline: "<strong>Sojusznicy w IT </strong>"
+  content: Sojusznicy to bardzo szeroki temat. Pisanie o tym temacie zabiera sporo
+    czasu. Jeśli chcesz czytać więcej zostaw maila aby dać motywację autorowi. Może
+    powstanie z tego nawet książka, jeśli tylko pojawi się zapotrzebowanie.
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: signup-bar
   block: cta-bar
   content: <section id="subscribe">Chcesz wiedzieć więcej? Zostaw nam swojego maila,
