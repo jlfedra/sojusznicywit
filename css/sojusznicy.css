@@ -562,6 +562,10 @@ input.inverted::placeholder {
     text-align: center
 }
 
+.block-footer-2 {
+    background-color: #9580A4;
+}
+
 .block-footer-2 .columns {
     display      : -ms-flexbox;
     display      : flex;
@@ -574,8 +578,8 @@ input.inverted::placeholder {
 }
 
 .block-footer-2 .column {
-    -ms-flex: 0 0 calc(50% - 4rem);
-    flex    : 0 0 calc(50% - 4rem);
+    -ms-flex: 0 0 calc(25% - 4rem);
+    flex    : 0 0 calc(25% - 4rem);
     margin  : 32px;
     margin  : 2rem
 }
