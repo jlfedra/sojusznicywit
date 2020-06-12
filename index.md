@@ -14,7 +14,7 @@ page_sections:
     link_text: 'Lista przywilejów '
   - link: "#subscribe"
     link_text: Subskrybuj
-  logo: "/uploads/2020/06/11/imgbin_holding-hands-stock-photography-png_de7vvb5s1.png"
+  logo: "/uploads/2020/06/12/imgbin_holding-hands-stock-photography-png_de7vvb5s12.png"
   page_name: Sojusznicy w IT
 - template: hero-banner-w-image
   block: hero-2
@@ -98,9 +98,9 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2020/06/11/imgbin_holding-hands-stock-photography-png_de7vvb5s1.png"
-  col_4: Programistka i Kot<br>Joanna Lamch
+  col_4: "<br>Programistka i Kot<br>Joanna Lamch<br>"
   col_2: ''
-  col_3: ''
+  col_3: <img src="/uploads/2020/06/12/imgbin_holding-hands-stock-photography-png_de7vvb5s12.png">
 
 ---
 foo bar
