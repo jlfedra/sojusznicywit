@@ -53,8 +53,8 @@ page_sections:
   headline: Diversity, Inclusion, Equity
   content: 'Różnorodność to nie tylko poprawianie statystyk zatrudnionych pracowników.
     To także wspieranie ich w pracy i dbanie o sprawiedliwość.<br>Przeczytaj więcej
-    w poście <a href="Programistkaikot.pl" title=""><em>Sojusznicy w IT: Diversity,
-    Inclusion, Equity</em></a>'
+    w poście <a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-diversity-inclusion.html"
+    title=""><em>Sojusznicy w IT: Diversity, Inclusion, Equity</em></a>'
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -93,7 +93,7 @@ page_sections:
     button_text: ''
 - template: signup-bar
   block: cta-bar
-  content: '<section id="subscribe">Chcesz wiedzieć więcej? Zapisz się:</section>'
+  content: <section id="subscribe">Chcesz wiedzieć więcej? Zapisz się:</section>
   email_recipient: programistkaikot@gmail.com
 - template: 4-column-footer
   block: footer-2
