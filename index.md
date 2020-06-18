@@ -77,6 +77,14 @@ page_sections:
   media:
     image: "/uploads/2020/06/11/sojusz.jpg"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Sprzymierzeńcy czy rycerze
+  media:
+    image: "/uploads/2020/06/18/2-minions-characters1.jpg"
+    alt_text: minion knight
+  content: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2020/06/12/aga-putra-p_p4ngz5cb4-unsplash.jpg"
