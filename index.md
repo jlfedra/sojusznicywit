@@ -84,7 +84,10 @@ page_sections:
   media:
     image: "/uploads/2020/06/18/2-minions-characters1.jpg"
     alt_text: minion knight
-  content: ''
+  content: Działasz na rzecz mniejszości? To wspaniale, ale pamiętaj aby starać się
+    o zmiany systemowe bardziej niż o pojedyncze akcje na rzecz indywidualnych osób.
+    Czytaj więcej w <a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-sprzymierzency-czy.html"
+    title="">artykule o rycerzach.</a>
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2020/06/12/aga-putra-p_p4ngz5cb4-unsplash.jpg"
