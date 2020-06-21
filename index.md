@@ -92,11 +92,11 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2020/06/12/aga-putra-p_p4ngz5cb4-unsplash.jpg"
   headline: "<strong>Sojusznicy w IT </strong>"
-  content: "<strong>Nie chodzi o statystyki Diversity. Chodzi o poczucie sprawiedliwości.Przywileje
-    są różne i są związane z pewną grupą społeczną nie osobą.Ale jeśli należysz do
-    grupy z przywilejami - możesz się nimi podzielić.Nawet małe kroki mogą doprowadzić
-    do zmian systemowych. Ale trzeba podejmować te małe kroki aby coś się wydarzyło,
-    samo się nie zrobi.Bądź sojusznikiem. Działaj.<br></strong><br><br>Sojusznicy
+  content: "<strong>Nie chodzi o statystyki Diversity. Chodzi o poczucie sprawiedliwości.
+    Przywileje są różne i są związane z pewną grupą społeczną nie osobą. Ale jeśli
+    należysz do grupy z przywilejami - możesz się nimi podzielić. <br>Nawet małe kroki
+    mogą doprowadzić do zmian systemowych. Ale trzeba podejmować te małe kroki aby
+    coś się wydarzyło, samo się nie zrobi. <br>Bądź sojusznikiem. Działaj.<br></strong><br><br>Sojusznicy
     to bardzo szeroki temat. Pisanie o tym temacie zabiera sporo czasu. Jeśli chcesz
     czytać więcej zostaw maila aby dać motywację autorowi. Może powstanie z tego nawet
     książka, jeśli tylko pojawi się zapotrzebowanie."
